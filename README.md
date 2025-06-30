@@ -23,4 +23,4 @@ Titanic Dataset from Kaggle
 ## Files
 - EDA_Titanic.ipynb
 - EDA_Report.pdf
--train.csv(Titanic Dataset)
+- train.csv(Titanic Dataset)
